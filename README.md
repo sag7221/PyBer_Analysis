@@ -25,7 +25,8 @@ Which also displays disparity of total number of drivers between urban vs Suburb
 3. For a person using ride-sharing, it is least expensive in urban areas where avg fare per ride is $24.53 versus rural areas where it is $34.62.
 4. With having more drivers in urban areas, the avg fare per driver is also only $0.67 versus in rural ($8.06) or 
 suburban($2.26)
-![Summary of Rides across different City Types](https://github.com/sgolla02/PyBer_Analysis/tree/main/analysis/Summary_DataFrame.png?raw=true)
+![Summary of Rides across different City Types](https://github.com/sag7221/PyBer_Analysis/blob/main/analysis/Summary_DataFrame.png?raw=true)
+
 
 ### Analysis from line graph
 From the original data, i created a time series data for different city type with weekly fares and plotted a multiple line graph
@@ -33,7 +34,7 @@ Following are the observations from this graph:
 1. On a weekly basis, Total fares for urban cities is always higher than Suburban and Rural
 2. In the later part of February, total fares are high across all city types of Urban, Suburban and Rural.
 3. Although you see highs and lows for both urban and suburban, rural areas, the total fares rural is more or less in the same range between (greater than 0 and <=500), more or less fares in rural areas seems consistent.
-![Total Fare By City Type](https://github.com/sgolla02/PyBer_Analysis/tree/main/analysis/Total_Fare_By_City_Type.png?raw=true)
+![Total Fare By City Type](https://github.com/sag7221/PyBer_Analysis/blob/main/analysis/Total_Fare_By_City_Type.png?raw=true)
 
 
 ## Recommendations
