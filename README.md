@@ -39,7 +39,7 @@ Following are the observations from this graph:
 
 ## Recommendations
 Based on the above observations i have the following recommendations:
-1. Due to a huge disparity of total number of drivers between urban vs Suburban and Urban vs Rural, and Suburban vs Rural, one recommendation is to increase number of drivers in rural areas. This increases the total collection of fares, and also decrease the avg fare per driver attracting more people to use ride-sharing.
-2. Similarly the numebr of drivers can be increased in Suburban areas too to bring down the avg. fare per driver.
+1. Due to a huge disparity of total number of drivers between urban vs Suburban and Urban vs Rural, and Suburban vs Rural, one recommendation is to increase number of drivers in rural areas. This increases the total collection of fares, and also decreases the avg fare per driver attracting more people to use ride-sharing.
+2. Similarly the number of drivers can be increased in Suburban areas too to bring down the avg. fare per driver.
 3. Bring down the number of total drivers in Urban areas, this will increase the avg fare per ride which is currently only 67 cents.
 
